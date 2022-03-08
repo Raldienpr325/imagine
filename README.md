@@ -4,7 +4,10 @@
 - hasil laporan absensi tidak maksimal.
 
 ## Solusi dari kendala
-- data dari table users seharusnya dipakai pegawai, agar bisa mengambil data Auth::user().
+- data dari table users seharusnya dipakai pegawai, agar bisa mengambil data Auth::user(),Jika Auth::user bisa digunakan di Pegawai , maka hasil dan laporan absensi bisa maksimal.
+
+
+
 
 
 
